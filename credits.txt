@@ -1,0 +1,7 @@
+=====TEAM=====
+Rishit Dutta	 : UI Illustrations
+Priyanshu Mishra : Back End Developer
+Ankush Singh 	 : Full Stack Developer
+
+=====OTHER====
+
